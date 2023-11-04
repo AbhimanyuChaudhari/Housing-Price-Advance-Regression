@@ -32,9 +32,7 @@ To use this project, follow these steps:
 Feel free to contribute or open issues if you have suggestions or questions.
 
 ## License
-## License
 This project is licensed under the [MIT License](LICENSE.md). See the [LICENSE.md](LICENSE.md) file for details.
-
 
 ## Contact
 If you have any questions or feedback, please contact Abhimanyu Chaudhari at abhimanyuchaudhari16@gmail.com.
